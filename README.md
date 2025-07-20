@@ -1,8 +1,8 @@
 # HighSpell-Discord-WikiBot
 
-Name: WikiBot
-Icon: https://github.com/SpegalDev/HighSpell-Discord-WikiBot/blob/main/images/Discord-Icon.png
-Banner: https://github.com/SpegalDev/HighSpell-Discord-WikiBot/blob/main/images/Discord-Banner.png
+* Name: WikiBot
+* Icon: https://github.com/SpegalDev/HighSpell-Discord-WikiBot/blob/main/images/Discord-Icon.png
+* Banner: https://github.com/SpegalDev/HighSpell-Discord-WikiBot/blob/main/images/Discord-Banner.png
 
 * Message Content Intent needs to be enabled.
 
