@@ -9,4 +9,4 @@ Permissions Needed:
 * Send Messages
 * Read Message History
 
-* Message Content Intent needs to be enabled.
+Message Content Intent needs to be enabled.
