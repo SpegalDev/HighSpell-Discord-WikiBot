@@ -11,3 +11,7 @@ Permissions Needed:
 * Read Message History
 
 Message Content Intent needs to be enabled.
+
+----------
+
+You'll need to go into `index.js` and fill out the first three variables. Pretty self-explanitory for what they are.
