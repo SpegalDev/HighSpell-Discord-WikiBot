@@ -14,4 +14,4 @@ Message Content Intent needs to be enabled.
 
 ----------
 
-You'll need to go into `index.js` and fill out the first three variables. Pretty self-explanitory for what they are.
+All of the bot's code is in `bot`. You'll need to go into `index.js` and fill out the first three variables. Pretty self-explanitory for what they are.
