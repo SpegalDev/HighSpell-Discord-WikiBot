@@ -163,7 +163,7 @@ client.on('messageCreate', async message => {
         }
     }
 
-    const fandomLinkRegex = new RegExp(`${FANDOM_WIKI_BASE_URL.replace(/\./g, '\\.').replace(/\
+    const fandomLinkRegex = new RegExp(`${FANDOM_WIKI_BASE_URL.replace(/\./g, '\\.').replace(/\//g, '\\/')}([^\\s|]+)`, 'gi');
     let fandomMatch;
     while ((fandomMatch = fandomLinkRegex.exec(message.content)) !== null) {
 
